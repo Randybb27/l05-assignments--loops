@@ -1,0 +1,15 @@
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /bin/Debug/net6.0/l05-assignments
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /bin/Debug/net6.0/l05-assignments.deps.json
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /bin/Debug/net6.0/l05-assignments.runtimeconfig.json
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /bin/Debug/net6.0/l05-assignments.dll
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /bin/Debug/net6.0/l05-assignments.pdb
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.csproj.AssemblyReference.cache
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.AssemblyInfoInputs.cache
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.AssemblyInfo.cs
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.csproj.CoreCompileInputs.cache
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.dll
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/refint/l05-assignments.dll
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.pdb
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/l05-assignments.genruntimeconfig.cache
+/Users/randybeebe/Desktop/C#-Course/l05-assignments /obj/Debug/net6.0/ref/l05-assignments.dll
